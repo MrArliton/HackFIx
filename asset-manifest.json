@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/HackWebFix/static/css/main.b37a7733.chunk.css",
+    "main.js": "/HackWebFix/static/js/main.5a95dc80.chunk.js",
+    "main.js.map": "/HackWebFix/static/js/main.5a95dc80.chunk.js.map",
+    "runtime-main.js": "/HackWebFix/static/js/runtime-main.5e7230cb.js",
+    "runtime-main.js.map": "/HackWebFix/static/js/runtime-main.5e7230cb.js.map",
+    "static/js/2.84911def.chunk.js": "/HackWebFix/static/js/2.84911def.chunk.js",
+    "static/js/2.84911def.chunk.js.map": "/HackWebFix/static/js/2.84911def.chunk.js.map",
+    "index.html": "/HackWebFix/index.html",
+    "precache-manifest.196bd2a4906d1421ff8b56bf51abace1.js": "/HackWebFix/precache-manifest.196bd2a4906d1421ff8b56bf51abace1.js",
+    "service-worker.js": "/HackWebFix/service-worker.js",
+    "static/css/main.b37a7733.chunk.css.map": "/HackWebFix/static/css/main.b37a7733.chunk.css.map",
+    "static/js/2.84911def.chunk.js.LICENSE.txt": "/HackWebFix/static/js/2.84911def.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/HackWebFix/static/media/1.dfc54362.png",
+    "static/media/2.png": "/HackWebFix/static/media/2.20489759.png",
+    "static/media/3.png": "/HackWebFix/static/media/3.dbf82c38.png",
+    "static/media/4.png": "/HackWebFix/static/media/4.e671d539.png",
+    "static/media/burger.png": "/HackWebFix/static/media/burger.35bcd067.png",
+    "static/media/check-symbol.svg": "/HackWebFix/static/media/check-symbol.06277842.svg",
+    "static/media/edit.svg": "/HackWebFix/static/media/edit.751f84c2.svg",
+    "static/media/kfc.png": "/HackWebFix/static/media/kfc.4fd2ba47.png",
+    "static/media/mcdac.png": "/HackWebFix/static/media/mcdac.60464810.png",
+    "static/media/refresh-button.svg": "/HackWebFix/static/media/refresh-button.1198ed41.svg",
+    "static/media/sub.png": "/HackWebFix/static/media/sub.4eb05fdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7230cb.js",
+    "static/js/2.84911def.chunk.js",
+    "static/css/main.b37a7733.chunk.css",
+    "static/js/main.5a95dc80.chunk.js"
+  ]
+}
